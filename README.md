@@ -17,4 +17,9 @@ _Nora D. Volkow, M.D._
 * Director of the National Institute on Drug Abuse (NIDA) at the National Institutes of Health. NIDA is the world’s largest funder of scientific research on the health aspects of drug use and addiction.
 * Email:Nora.Volkow@nyulangone.org
 * I will conduct interviews to understand why people become addicted to these drugs and ask about solutions to the problem of substance abuse.
+  
+_Peter Canning_
+* Peter Canning has been a paramedic in Hartford, Connecticut since January of 1995.His latest nonfiction book about the heroin epidemic, Killing Season: A Paramedic's Dispatches from the Frontlines of the Opioid Epidemic published by Johns Hopkins University Press was selected by Amazon as one of the ten best nonfiction books of April 2021.
+* Email: canning@uchc.edu
+* I will ask him about substance abuse stories he has seen in Connecticut and learn about the nonfiction he has written.
 #### Additional Sources
