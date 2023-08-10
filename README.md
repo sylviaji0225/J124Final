@@ -1,7 +1,7 @@
 # Surge in Accidental Drug Related Deaths in Connecticut from 2012 to 2022
 ## By Sylvia Ji
 ### Data Analysis
-**Download**:[Accidental Drug Related Deaths 2012-2022](https://catalog.data.gov/dataset/accidental-drug-related-deaths-2012-2018)
+**Download**:[Accidental Drug Related Deaths 2012-2022](https://catalog.data.gov/dataset/accidental-drug-related-deaths-2012-2018), upload it to Google Drive, and open it with Google Sheets. 
 
 **Question1**
 _Which age group has the most death? Which race has the most death percentage? What is the gender distribution of the dead?_
