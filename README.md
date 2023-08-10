@@ -87,14 +87,20 @@ Answer: as screenshot below
 ![4](https://github.com/sylviaji0225/J124Final/blob/main/question4%20screenshot.png)
 
 **Question5**
-_5.Are drug overdose-related accidental deaths more frequent during certain seasons of the year?_
+_Are drug overdose-related accidental deaths more frequent during certain seasons of the year?_
 
 Answer:Doesn't seem to matter much.
 1. Create a new column to the right of year named "season"
 2. input =IF(OR(MONTH(A2)=12, MONTH(A2)=1, MONTH(A2)=2), "winter", IF(OR(MONTH(A2)=3, MONTH(A2)=4, MONTH(A2)=5), "spring", IF(OR(MONTH(A2)=6, MONTH(A2)=7, MONTH(A2)=8), "summer",IF(OR(MONTH(A2)=9, MONTH(A2)=10, MONTH(A2)=11),  "fall")))
 3. Acceptance of the suggestion to generate a season column
 4. create a new pivot table as what I did befor
+![5.1](https://github.com/sylviaji0225/J124Final/blob/main/question5%20screenshot1.png)
 
 **Question6**
+_What is the youngest and oldest age of the deceased?Is there a significant change in the average or median age of the deceased from year to year?_
+
+Answer: Minimum is 13，the change is not obvious
+* Filter age columns from z-a
+
 
 **Question7**
