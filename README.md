@@ -13,7 +13,7 @@ The information above is primarily derived from an analysis of the dataset, from
 
 ### Data Visualization
 ![*_Accident Drug Related Death 2012-2022_*](https://github.com/sylviaji0225/J124Final/blob/main/column%20chart.png)
-
+！[*_map_*]（https://github.com/sylviaji0225/J124Final/blob/main/map.png）
 
 ### Sourcing
 #### Potential Interview Contacts
