@@ -115,11 +115,11 @@ _Peter Canning_
 #### Additional Sources
 [Opioids and Drug Overdose Prevention](https://portal.ct.gov/DPH/Health-Education-Management--Surveillance/The-Office-of-Injury-Prevention/Opioids-and-Prescription-Drug-Overdose-Prevention-Program)
 * from:CT.gov/HomeDepartment of Public Health
-* Learn about the latest data and the latest preventative measures in the state of Connecticut
+* I will learn about the latest data and the latest preventative measures in the state of Connecticut
 
 [NVSS-Drug Overdose Death](https://www.cdc.gov/nchs/nvss/drug-overdose-deaths.htm)
 * from: Centers of Diseas Control and Prevention/National Center for Health Statistics
-* compare the conneticut's accident with all country
+* It helps me to compare the conneticut's accident with all country
 
 
 
