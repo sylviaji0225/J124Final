@@ -105,6 +105,7 @@ Answer: Minimum is 13，the change is not obvious
 1. create new pivot table
 2. Row:Year, Values: Average of age，Filter：delete blanks
 3. input=STDEVP(B2:B12)
+![6.2](https://github.com/sylviaji0225/J124Final/blob/main/question6%20screenshot2.png)
 4. the same with median of age
 
 **Question7**
