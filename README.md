@@ -97,7 +97,7 @@ Specific drug detection data underscores that Fentanyl (an opioid), cocaine, and
 ### Data Visualizations
 **Column Chart**
 
-I use a [column chart](https://datawrapper.dwcdn.net/ayzFF/2/) in datawrapper to show the number of deaths for each year from 2012 to 2022 and the overall trend.It reveals that the number of accidental death associated with drug overdose each year in Connecticut maintains a generally upward trend from 2012 to 2022 .The figure for 2022 is approximately four times that of 2012.
+I used a [column chart](https://datawrapper.dwcdn.net/ayzFF/2/) in datawrapper to show the number of deaths for each year from 2012 to 2022 and the overall trend.It reveals that the number of accidental death associated with drug overdose each year in Connecticut maintains a generally upward trend from 2012 to 2022 .The figure for 2022 is approximately four times that of 2012.
 ![*_Accident Drug Related Death 2012-2022_*](https://github.com/sylviaji0225/J124Final/blob/main/column%20chart.png)
 **Coropleth Map**
 
