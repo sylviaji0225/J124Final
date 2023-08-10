@@ -35,6 +35,14 @@ _Peter Canning_
 Download:[Accidental Drug Related Deaths 2012-2022](https://catalog.data.gov/dataset/accidental-drug-related-deaths-2012-2018)
 
 **Question1**
+_Which age group has the most death? Which race has the most death? What is the gender distribution of the dead?_
+Answer:30～39,White people 85.44%,Male 74.12%
+* Create a new Age group column to the right of the Age column
+* input =FLOOR(C2, 10) & "-" & FLOOR(C2, 10) + 9
+* Accept the suggestion that this column all use a similar formula to automatically generate age groups
+![1.1](https://github.com/sylviaji0225/J124Final/raw/main/question1%20screenshot%201.png)
+* New pivot table, pull the age group into the column, value, summarize by COUNTA of age group, and according to the value of the descending sorting
+
 
 **Question2**
 
