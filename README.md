@@ -107,5 +107,12 @@ Answer: Minimum is 13，the change is not obvious
 3. input=STDEVP(B2:B12)
 ![6.2](https://github.com/sylviaji0225/J124Final/blob/main/question6%20screenshot2.png)
 4. the same with median of age
+![6.3](https://github.com/sylviaji0225/J124Final/blob/main/question6%20screenshot3.png)
 
 **Question7**
+_How many minors die each year?What about in total?_
+
+Answer: as screenshot below, 241 in total
+
+1. create a new pivot table
+2. Rows:Year Values:CountA of Year, Filters: age 13~20
