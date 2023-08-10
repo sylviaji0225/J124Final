@@ -1,7 +1,7 @@
 # Increase in Accidental Drug Related Deaths in Connecticut from 2012 to 2022
 ## By Sylvia Ji
 ### Story pitch
-A new report published early July by the Centers for Disease Control and Prevention looked at mortality data from the National Vital Statistics System between 2011 and 2021.Drug overdose deaths involving both cocaine and opioids have spiked over the last decade, new federal data suggests.
+A new report published early July by the Centers for Disease Control and Prevention looked at mortality data from the National Vital Statistics System between 2011 and 2021. It suggests that drug overdose deaths involving both cocaine and opioids have spiked over the last decade.
 
 In the state of Connecticut, a parallel situation unfolds. Following the investigation by the Office of the Chief Medical Examiner, the state government has compiled data spanning from 2012 to 2022, encompassing cases of accidental deaths due to drug overdose. Throughout this period, the count of accidental deaths linked to drug overdose experiences an almost annual surge, albeit with a somewhat decelerated pace since 2017. Strikingly, the tally of fatalities in 2022 stands at approximately fourfold of that in 2012.
 
