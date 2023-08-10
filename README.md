@@ -43,6 +43,9 @@ Answer:30～39,White people 85.44%,Male 74.12%
 ![1.1](https://github.com/sylviaji0225/J124Final/raw/main/question1%20screenshot%201.png)
 * New pivot table, pull the age group into the column, value, summarize by COUNTA of age group, and according to the value of the descending sorting
 
+![1.2](https://github.com/sylviaji0225/J124Final/blob/main/question1%20screenshot2.png)
+
+* Create the pivot table in the same way as above, do something similar to age group for Race, filter to remove blank, show as % of grand total
 
 **Question2**
 
