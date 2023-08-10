@@ -9,12 +9,13 @@ These tragic events find concentration within counties such as Hartford and New 
 
 Specific drug detection data underscores that Fentanyl (an opioid), cocaine, and heroin claim the top three slots for highest detected substance concentrations within the deceased bodies. This array of data poignantly underscores the grave impact of drug abuse within the state.
 
-The information above is primarily derived from an analysis of the dataset, from which it can be observed that there is a rising trend in accidental deaths caused by drug abuse. It also provides a rough depiction of the profile of the deceased individuals. However, there is still a significant amount of information that cannot be presented.In the formal report, I also want to introduce the following perspective: Why drug abuse is becoming more common in the United States? Is there any way to solve the problem? For what reason were these people exposed to these drugs? Additionaly, in the last year, the state has taken a lot of steps to address substance abuse, has it produced real results?
-
 ### Data Visualization
 ![*_Accident Drug Related Death 2012-2022_*](https://github.com/sylviaji0225/J124Final/blob/main/column%20chart.png)
 ![map](https://github.com/sylviaji0225/J124Final/blob/main/map.png)
 ### Sourcing
+**Aim:**
+The information above is primarily derived from an analysis of the dataset, from which it can be observed that there is a rising trend in accidental deaths caused by drug abuse. It also provides a rough depiction of the profile of the deceased individuals. However, there is still a significant amount of information that cannot be presented.In the formal report, I also want to introduce the following perspective: Why drug abuse is becoming more common in the United States? Is there any way to solve the problem? For what reason were these people exposed to these drugs? Additionaly, in the last year, the state has taken a lot of steps to address substance abuse, has it produced real results?
+
 #### Potential Interview Contacts
 _Nora D. Volkow, M.D._
 * Director of the National Institute on Drug Abuse (NIDA) at the National Institutes of Health. NIDA is the world’s largest funder of scientific research on the health aspects of drug use and addiction.
@@ -31,6 +32,7 @@ _Peter Canning_
 * from:CT.gov/HomeDepartment of Public Health
 * Learn about the latest data and the latest preventative measures in the state of Connecticut
 
+
 ### Data Analysis
 Download:[Accidental Drug Related Deaths 2012-2022](https://catalog.data.gov/dataset/accidental-drug-related-deaths-2012-2018)
 
@@ -38,7 +40,7 @@ Download:[Accidental Drug Related Deaths 2012-2022](https://catalog.data.gov/dat
 _Which age group has the most death? Which race has the most death? What is the gender distribution of the dead?_
 
 Answer: 30～39, White people 85.44%, Male 74.12%
-* Create a new Age group column to the right of the Age column
+1. Create a new Age group column to the right of the Age column
 * input =FLOOR(C2, 10) & "-" & FLOOR(C2, 10) + 9
 * Accept the suggestion that this column all use a similar formula to automatically generate age groups
 ![1.1](https://github.com/sylviaji0225/J124Final/raw/main/question1%20screenshot%201.png)
@@ -79,6 +81,10 @@ Answer: Fentanyl、Cocain、Heroin
 _What is the regional distribution of the death?_
 
 Answer: as screenshot below
+* create a vew pivot table
+* rows: death county
+* values: death couty, summarize by COUNTA,show as default
+![4](https://github.com/sylviaji0225/J124Final/blob/main/question4%20screenshot.png)
 
 **Question5**
 
