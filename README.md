@@ -41,7 +41,7 @@ Answer: Fentanyl、Cocain、Heroin
 1. Create a pivot table
 2. This form is marked in such a way that if the drug is detected in the body of the deceased, it will be marked Y. Otherwise, it will not be filled out.
 3. Pull the column for all medications one by one into the VALUE column and select COUNTA
-4. Add Filter to the value column, z-a alignment
+4. Add Filter to the value column, sort by z-a
 ![3](https://github.com/sylviaji0225/J124Final/blob/main/question3%20screenshot.png)
   
 **Question4**
@@ -67,7 +67,7 @@ Answer:Doesn't seem to matter much.
 _What is the youngest and oldest age of the deceased?Is there a significant change in the average or median age of the deceased from year to year?_
 
 Answer: Minimum is 13，the change is not obvious
-* Filter age columns from z-a
+* Add filter, sort by age from z-a
 ![6.1](https://github.com/sylviaji0225/J124Final/blob/main/question6%20screenshot1.png)
 1. create new pivot table
 2. Row:Year, Values: Average of age，Filter：delete blanks
@@ -83,13 +83,13 @@ Answer: as screenshot below, 241 in total
 
 1. create a new pivot table
 2. Rows:Year Values:CountA of Year, Filters: age 13~20
-![7](https://github.com/sylviaji0225/J124Final/blob/main/Question7.png)
+![7](https://github.com/sylviaji0225/J124Final/blob/main/q6%20screenshot.png)
 ### Story pitch
 A new report published early July by the Centers for Disease Control and Prevention looked at mortality data from the National Vital Statistics System between 2011 and 2021. It suggests that drug overdose deaths involving both cocaine and opioids have spiked over the last decade.
 
 In the state of Connecticut, a parallel situation unfolds. Following the investigation by the Office of the Chief Medical Examiner, the state government has compiled data spanning from 2012 to 2022, encompassing cases of accidental deaths due to drug overdose. Throughout this period, the count of accidental deaths linked to drug overdose experiences an almost annual surge, albeit with a somewhat decelerated pace since 2017. Strikingly, the tally of fatalities in 2022 stands at approximately fourfold of that in 2012.
 
-These tragic events find concentration within counties such as Hartford and New Haven. The majority of these fatality instances gravitate towards individuals aged 30 and above. Over a span of a decade, an alarming count of 241 minors (below 21 years of age) have tragically succumbed due to drug abuse. As nbcnews previously reported, a 13-year-old died days after a suspected fentanyl overdose at a Connecticut middle school in 2022. 
+These tragic events find concentration within counties such as Hartford and New Haven. The majority of these fatality instances gravitate towards individuals aged 30 and above. Over a span of a decade, an alarming count of 141 minors (below 21 years of age) have tragically succumbed due to drug abuse. As nbcnews previously reported, a 13-year-old died days after a suspected fentanyl overdose at a Connecticut middle school in 2022. 
 
 Specific drug detection data underscores that Fentanyl (an opioid), cocaine, and heroin claim the top three slots for highest detected substance concentrations within the deceased bodies. This array of data poignantly underscores the grave impact of drug abuse within the state.
 
