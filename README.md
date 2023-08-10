@@ -46,6 +46,9 @@ Answer:30～39,White people 85.44%,Male 74.12%
 ![1.2](https://github.com/sylviaji0225/J124Final/blob/main/question1%20screenshot2.png)
 
 * Create the pivot table in the same way as above, do something similar to age group for Race, filter to remove blank, show as % of grand total
+![1.3](https://github.com/sylviaji0225/J124Final/raw/main/question1%20screenshot3.png)
+
+*Do the same thing with sex in the pivot table as I would with race.
 
 **Question2**
 
