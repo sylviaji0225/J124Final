@@ -36,6 +36,7 @@ Download:[Accidental Drug Related Deaths 2012-2022](https://catalog.data.gov/dat
 
 **Question1**
 _Which age group has the most death? Which race has the most death? What is the gender distribution of the dead?_
+
 Answer: 30～39, White people 85.44%, Male 74.12%
 * Create a new Age group column to the right of the Age column
 * input =FLOOR(C2, 10) & "-" & FLOOR(C2, 10) + 9
@@ -54,6 +55,7 @@ Answer: 30～39, White people 85.44%, Male 74.12%
 
 **Question2**
 _How many people died each year during the decade? What is the rate of change in the number of deaths?_
+
 Answer: as screenshot below
 * Adjusting the format of the date column by Format-Number-Date in the bar
 * Create a new column year to the right of date
@@ -65,14 +67,18 @@ Answer: as screenshot below
   
 **Question3**
 _Which three drugs are most common in the analysis of the body of the deceased?_
+
 Answer: Fentanyl、Cocain、Heroin
 * Create a pivot table
 * This form is marked in such a way that if the drug is detected in the body of the deceased, it will be marked Y. Otherwise, it will not be filled out.
 * Pull the column for all medications one by one into the VALUE column and select COUNTA
 * Add Filter to the value column, z-a alignment
-
+![3](https://github.com/sylviaji0225/J124Final/blob/main/question3%20screenshot.png)
   
 **Question4**
+_What is the regional distribution of the death?_
+
+Answer: as screenshot below
 
 **Question5**
 
