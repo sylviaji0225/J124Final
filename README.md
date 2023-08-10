@@ -13,8 +13,7 @@ The information above is primarily derived from an analysis of the dataset, from
 
 ### Data Visualization
 ![*_Accident Drug Related Death 2012-2022_*](https://github.com/sylviaji0225/J124Final/blob/main/column%20chart.png)
-![*_map_*](https://github.com/sylviaji0225/J124Final/blob/main/map.png)
-
+![map](https://github.com/sylviaji0225/J124Final/blob/main/map.png)
 ### Sourcing
 #### Potential Interview Contacts
 _Nora D. Volkow, M.D._
@@ -31,3 +30,20 @@ _Peter Canning_
 [Opioids and Drug Overdose Prevention](https://portal.ct.gov/DPH/Health-Education-Management--Surveillance/The-Office-of-Injury-Prevention/Opioids-and-Prescription-Drug-Overdose-Prevention-Program)
 * from:CT.gov/HomeDepartment of Public Health
 * Learn about the latest data and the latest preventative measures in the state of Connecticut
+
+### Data Analysis
+Download:[Accidental Drug Related Deaths 2012-2022](https://catalog.data.gov/dataset/accidental-drug-related-deaths-2012-2018)
+
+**Question1**
+
+**Question2**
+
+**Question3**
+
+**Question4**
+
+**Question5**
+
+**Question6**
+
+**Question7**
