@@ -41,8 +41,8 @@ _Which age group has the most death? Which race has the most death? What is the 
 
 Answer: 30～39, White people 85.44%, Male 74.12%
 1. Create a new Age group column to the right of the Age column
-* input =FLOOR(C2, 10) & "-" & FLOOR(C2, 10) + 9
-* Accept the suggestion that this column all use a similar formula to automatically generate age groups
+2. input =FLOOR(C2, 10) & "-" & FLOOR(C2, 10) + 9
+3. Accept the suggestion that this column all use a similar formula to automatically generate age groups
 ![1.1](https://github.com/sylviaji0225/J124Final/raw/main/question1%20screenshot%201.png)
 * New pivot table, pull the age group into the column, value, summarize by COUNTA of age group, and according to the value of the descending sorting
 
@@ -59,34 +59,41 @@ Answer: 30～39, White people 85.44%, Male 74.12%
 _How many people died each year during the decade? What is the rate of change in the number of deaths?_
 
 Answer: as screenshot below
-* Adjusting the format of the date column by Format-Number-Date in the bar
-* Create a new column year to the right of date
-* In C2, enter =LEFT(A2, 4) meaning to keep the first four characters corresponding to column A (year)
-* Accepted recommendation to generate this column "year"
-* Create a new pivot table and put Year in the rows and values(checked by filter-year, no blanks found)
-* in the pivot table new column C Rate of change from the previous year, using the function = (B3-B2)/B2, and accept the proposal to generate the year-on-year rate of change, adjust the number of format, to generate the format of the %
+1. Adjusting the format of the date column by Format-Number-Date in the bar
+2. Create a new column year to the right of date
+3. In C2, enter =LEFT(A2, 4) meaning to keep the first four characters corresponding to column A (year)
+4. Accepted recommendation to generate this column "year"
+5. Create a new pivot table and put Year in the rows and values(checked by filter-year, no blanks found)
+6. in the pivot table new column C Rate of change from the previous year, using the function = (B3-B2)/B2, and accept the proposal to generate the year-on-year rate of change, adjust the number of format, to generate the format of the %
 ![2](https://github.com/sylviaji0225/J124Final/blob/main/question2.png)
   
 **Question3**
 _Which three drugs are most common in the analysis of the body of the deceased?_
 
 Answer: Fentanyl、Cocain、Heroin
-* Create a pivot table
-* This form is marked in such a way that if the drug is detected in the body of the deceased, it will be marked Y. Otherwise, it will not be filled out.
-* Pull the column for all medications one by one into the VALUE column and select COUNTA
-* Add Filter to the value column, z-a alignment
+1. Create a pivot table
+2. This form is marked in such a way that if the drug is detected in the body of the deceased, it will be marked Y. Otherwise, it will not be filled out.
+3. Pull the column for all medications one by one into the VALUE column and select COUNTA
+4. Add Filter to the value column, z-a alignment
 ![3](https://github.com/sylviaji0225/J124Final/blob/main/question3%20screenshot.png)
   
 **Question4**
 _What is the regional distribution of the death?_
 
 Answer: as screenshot below
-* create a vew pivot table
-* rows: death county
-* values: death couty, summarize by COUNTA,show as default
+1. create a vew pivot table
+2. rows: death county
+3. values: death couty, summarize by COUNTA,show as default
 ![4](https://github.com/sylviaji0225/J124Final/blob/main/question4%20screenshot.png)
 
 **Question5**
+_5.Are drug overdose-related accidental deaths more frequent during certain seasons of the year?_
+
+Answer:Doesn't seem to matter much.
+1. Create a new column to the right of year named "season"
+2. input =IF(OR(MONTH(A2)=12, MONTH(A2)=1, MONTH(A2)=2), "winter", IF(OR(MONTH(A2)=3, MONTH(A2)=4, MONTH(A2)=5), "spring", IF(OR(MONTH(A2)=6, MONTH(A2)=7, MONTH(A2)=8), "summer",IF(OR(MONTH(A2)=9, MONTH(A2)=10, MONTH(A2)=11),  "fall")))
+3. Acceptance of the suggestion to generate a season column
+4. create a new pivot table as what I did befor
 
 **Question6**
 
