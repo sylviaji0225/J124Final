@@ -60,7 +60,7 @@ _How many people died each year during the decade? What is the rate of change in
 * Accepted recommendation to generate this column "year"
 * Create a new pivot table and put Year in the rows and values(checked by filter-year, no blanks found)
 * in the pivot table new column C Rate of change from the previous year, using the function = (B3-B2)/B2, and accept the proposal to generate the year-on-year rate of change, adjust the number of format, to generate the format of the %
-![2](https://github.com/sylviaji0225/J124Final/raw/main/question1%20screenshot3.png)
+![2](https://github.com/sylviaji0225/J124Final/blob/main/question2%20screenshot.png)
   
 **Question3**
 
