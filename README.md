@@ -116,3 +116,4 @@ Answer: as screenshot below, 241 in total
 
 1. create a new pivot table
 2. Rows:Year Values:CountA of Year, Filters: age 13~20
+![7](https://github.com/sylviaji0225/J124Final/blob/main/Question7.png)
