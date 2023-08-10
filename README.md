@@ -83,7 +83,7 @@ _What is the regional distribution of the death?_
 Answer: as screenshot below
 1. create a vew pivot table
 2. rows: death county
-3. values: death couty, summarize by COUNTA,show as default
+3. values: death couty, summarize by COUNTA, filter blanks, show as default
 ![4](https://github.com/sylviaji0225/J124Final/blob/main/question4%20screenshot.png)
 
 **Question5**
@@ -101,6 +101,10 @@ _What is the youngest and oldest age of the deceased?Is there a significant chan
 
 Answer: Minimum is 13，the change is not obvious
 * Filter age columns from z-a
-
+![6.1](https://github.com/sylviaji0225/J124Final/blob/main/question6%20screenshot1.png)
+1. create new pivot table
+2. Row:Year, Values: Average of age，Filter：delete blanks
+3. input=STDEVP(B2:B12)
+4. the same with median of age
 
 **Question7**
