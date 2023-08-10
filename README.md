@@ -11,6 +11,9 @@ Specific drug detection data underscores that Fentanyl (an opioid), cocaine, and
 
 The information above is primarily derived from an analysis of the dataset, from which it can be observed that there is a rising trend in accidental deaths caused by drug abuse. It also provides a rough depiction of the profile of the deceased individuals. However, there is still a significant amount of information that cannot be presented.In the formal report, I also want to introduce the following perspective: Why drug abuse is becoming more common in the United States? Is there any way to solve the problem? For what reason were these people exposed to these drugs? Additionaly, in the last year, the state has taken a lot of steps to address substance abuse, has it produced real results?
 
+### Data Visualization
+
+
 ### Sourcing
 #### Potential Interview Contacts
 _Nora D. Volkow, M.D._
@@ -22,6 +25,7 @@ _Peter Canning_
 * Peter Canning has been a paramedic in Hartford, Connecticut since January of 1995.His latest nonfiction book about the heroin epidemic, Killing Season: A Paramedic's Dispatches from the Frontlines of the Opioid Epidemic published by Johns Hopkins University Press was selected by Amazon as one of the ten best nonfiction books of April 2021.
 * Email: canning@uchc.edu
 * I will ask him about substance abuse stories he has seen in Connecticut and learn about the nonfiction he has written.
+  
 #### Additional Sources
 [Opioids and Drug Overdose Prevention](https://portal.ct.gov/DPH/Health-Education-Management--Surveillance/The-Office-of-Injury-Prevention/Opioids-and-Prescription-Drug-Overdose-Prevention-Program)
 * from:CT.gov/HomeDepartment of Public Health
