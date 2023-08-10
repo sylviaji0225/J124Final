@@ -96,10 +96,12 @@ Specific drug detection data underscores that Fentanyl (an opioid), cocaine, and
 
 ### Data Visualizations
 **Column Chart**
-I use a column chart(https://datawrapper.dwcdn.net/ayzFF/2/) in datawrapper to show the number of deaths for each year from 2012 to 2022 and the overall trend.It reveals that the number of accidental death associated with drug overdose each year in Connecticut maintains a generally upward trend from 2012 to 2022 .The figure for 2022 is approximately four times that of 2012.
+
+I use a [column chart](https://datawrapper.dwcdn.net/ayzFF/2/) in datawrapper to show the number of deaths for each year from 2012 to 2022 and the overall trend.It reveals that the number of accidental death associated with drug overdose each year in Connecticut maintains a generally upward trend from 2012 to 2022 .The figure for 2022 is approximately four times that of 2012.
 ![*_Accident Drug Related Death 2012-2022_*](https://github.com/sylviaji0225/J124Final/blob/main/column%20chart.png)
 **Coropleth Map**
-I draw a coropleth map(https://datawrapper.dwcdn.net/Ng8AF/1/) in datawapper to reflects the total number of deaths in each county over a ten-year period.If I can next find a more detailed total population for each county, I will further calculate the number of deaths per 100,000 people (since each county has a different population base) in a more scientific way.
+
+I draw a [coropleth map](https://datawrapper.dwcdn.net/Ng8AF/1/) in datawapper to reflects the total number of deaths in each county over a ten-year period.If I can next find a more detailed total population for each county, I will further calculate the number of deaths per 100,000 people (since each county has a different population base) in a more scientific way.
 ![map](https://github.com/sylviaji0225/J124Final/blob/main/map.png)
 ### Sourcing
 **Aim:**
