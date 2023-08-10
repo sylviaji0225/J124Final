@@ -4,7 +4,7 @@
 **Download**:[Accidental Drug Related Deaths 2012-2022](https://catalog.data.gov/dataset/accidental-drug-related-deaths-2012-2018)
 
 **Question1**
-_Which age group has the most death? Which race has the most death? What is the gender distribution of the dead?_
+_Which age group has the most death? Which race has the most death percentage? What is the gender distribution of the dead?_
 
 Answer: 30～39, White people 85.44%, Male 74.12%
 1. Create a new Age group column to the right of the Age column
