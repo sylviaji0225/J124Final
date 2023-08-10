@@ -49,9 +49,19 @@ Answer:30～39,White people 85.44%,Male 74.12%
 ![1.3](https://github.com/sylviaji0225/J124Final/raw/main/question1%20screenshot3.png)
 
 * Do the same thing with sex in the pivot table as I would with race.
+![1.4](https://github.com/sylviaji0225/J124Final/raw/main/question1%20screenshot4.png)
+
 
 **Question2**
-
+_How many people died each year during the decade? What is the rate of change in the number of deaths?_
+* Adjusting the format of the date column by Format-Number-Date in the bar
+* Create a new column year to the right of date
+* In C2, enter =LEFT(A2, 4) meaning to keep the first four characters corresponding to column A (year)
+* Accepted recommendation to generate this column "year"
+* Create a new pivot table and put Year in the rows and values(checked by filter-year, no blanks found)
+* in the pivot table new column C Rate of change from the previous year, using the function = (B3-B2)/B2, and accept the proposal to generate the year-on-year rate of change, adjust the number of format, to generate the format of the %
+![2](https://github.com/sylviaji0225/J124Final/raw/main/question1%20screenshot4.png)
+  
 **Question3**
 
 **Question4**
