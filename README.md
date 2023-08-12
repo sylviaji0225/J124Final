@@ -85,6 +85,8 @@ Answer: as screenshot below, 241 in total
 1. create a new pivot table
 2. Rows:Year Values:CountA of Year, Filters: age 13~20
 ![7](https://github.com/sylviaji0225/J124Final/blob/main/q6%20screenshot.png)
+* * *
+
 ### Story pitch
 A new report published early July by the Centers for Disease Control and Prevention looked at mortality data from the National Vital Statistics System between 2011 and 2021. It suggests that drug overdose deaths involving both cocaine and opioids have spiked over the last decade.
 
@@ -93,6 +95,7 @@ In the state of Connecticut, a parallel situation unfolds. Following the investi
 These tragic events find concentration within counties such as Hartford and New Haven. The majority of these fatality instances gravitate towards individuals aged 30 and above. Over a span of a decade, an alarming count of 141 minors (below 21 years of age) have tragically succumbed due to drug abuse. As nbcnews previously reported, a 13-year-old died days after a suspected fentanyl overdose at a Connecticut middle school in 2022. 
 
 Specific drug detection data underscores that Fentanyl (an opioid), cocaine, and heroin claim the top three slots for highest detected substance concentrations within the deceased bodies. This array of data poignantly underscores the grave impact of drug abuse within the state.
+* * *
 
 ### Data Visualizations
 **Column Chart**
@@ -103,6 +106,8 @@ I used a [column chart](https://datawrapper.dwcdn.net/ayzFF/2/) in datawrapper t
 
 I draw a [coropleth map](https://datawrapper.dwcdn.net/Ng8AF/1/) in datawapper to reflects the total number of deaths in each county over a ten-year period.If I can next find a more detailed total population for each county, I will further calculate the number of deaths per 100,000 people (since each county has a different population base) in a more scientific way.
 ![map](https://github.com/sylviaji0225/J124Final/blob/main/map.png)
+* * *
+
 ### Sourcing
 **Aim:**
 The information above is primarily derived from an analysis of the dataset, from which it can be observed that there is a rising trend in accidental deaths caused by drug abuse. It also provides a rough depiction of the profile of the deceased individuals. However, there is still a significant amount of information that cannot be presented.In the formal report, I also want to introduce the following perspective: Why drug abuse is becoming more common in the United States? Is there any way to solve the problem? For what reason were these people exposed to these drugs? Additionaly, in the last year, the state has taken a lot of steps to address substance abuse, has it produced real results?
