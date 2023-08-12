@@ -95,6 +95,8 @@ In the state of Connecticut, a parallel situation unfolds. Following the investi
 These tragic events find concentration within counties such as Hartford and New Haven. The majority of these fatality instances gravitate towards individuals aged 30 and above. Over a span of a decade, an alarming count of 141 minors (below 21 years of age) have tragically succumbed due to drug abuse. As nbcnews previously reported, a 13-year-old died days after a suspected fentanyl overdose at a Connecticut middle school in 2022. 
 
 Specific drug detection data underscores that Fentanyl (an opioid), cocaine, and heroin claim the top three slots for highest detected substance concentrations within the deceased bodies. This array of data poignantly underscores the grave impact of drug abuse within the state.
+
+It's the specific topic of substance abuse spiking in the county that I want to focus on, and the section below has the story that talks about what I want to expand on further.
 * * *
 
 ### Data Visualizations
